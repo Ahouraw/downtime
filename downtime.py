@@ -9,7 +9,7 @@ WEBSITES = [
     {"name": "Linkedin", "url": "https://www.linkedin.com"},
     {"name": "Reddit", "url": "https://www.reddit.com"},
     {"name": "RBC", "url": "https://www.rbcroyalbank.com"},
-    {"name": "TD", "url": "https://www.rbcroyalbank.com"},
+    {"name": "TD", "url": "https://www.td.com"},
     
 
 ]
